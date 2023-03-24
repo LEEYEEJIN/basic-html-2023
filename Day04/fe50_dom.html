@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>javascript DOM</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script>
+        window.onload = function() {
+            var header = document.getElementById('header');
+
+            header.style.color = 'blue';
+            header.style.backgroundColor = 'yellow';
+            header.innerHTML = '자바스크립에서 변경함!';
+
+            var h2 = document.querySelector('h2'); // 같은 태그 중 하나만 가져옴
+            h2.style.color = 'red';
+            h2.style.backgroundColor = '#222222';
+            h2.innerHTML = 'querySelector';
+
+            var headings = document.querySelectorAll('h3');
+            for(var i = 0; i < headings.length; i++){
+                var heading = headings[i];
+                heading.style.color = 'orange';
+                heading.style.backgroundColor = '#ff0000';
+                heading.innerHTML = 'querySelectorAll';
+            }
+        };
+    </script>
+</head>
+<body>
+    <h1 id="header">Lerem ipsum dolor sit amet.</h1>    
+    <h2>Lerem ipsum dolor sit amet.</h2>    
+    <h3>Lerem ipsum dolor sit amet.</h3>
+    <h3>Lerem ipsum dolor sit amet.</h3>
+    <h3>Lerem ipsum dolor sit amet.</h3>
+
+</body>
+</html>
