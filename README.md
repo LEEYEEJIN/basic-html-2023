@@ -1,6 +1,7 @@
 # basic-html-2023
 Java 개발자 과정 프론트앤드 리포지토리
 
+
 ## 1일차
 - 웹 기본
     - HTTP 개요
@@ -12,11 +13,13 @@ Java 개발자 과정 프론트앤드 리포지토리
 <!--![멀티미디어](https://raw.githubusercontent.com/LEEYEEJIN/basic-html-2023/main/image/day01.png)-->
 <img src="https://raw.githubusercontent.com/LEEYEEJIN/basic-html-2023/main/image/day01.png" width="700">
 
+
 ## 2일차
 - 프론트엔드 학습
     - HTML 5 입력태그
     - CSS 3 기본문법
     - CSS 3 고급
+
 
 ## 3일차
 - 프론트엔드 학습
@@ -27,6 +30,7 @@ Java 개발자 과정 프론트앤드 리포지토리
 3일차 레이아웃
 
 <img src="https://raw.githubusercontent.com/LEEYEEJIN/basic-html-2023/main/image/layout.png" width="700">
+
 
 ## 4일차
 - 프론트엔드 학습
@@ -39,11 +43,13 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 <img src="https://raw.githubusercontent.com/LEEYEEJIN/basic-html-2023/main/image/gallery.png" width="700">
 
+
 ## 5일차
 - 프론트엔드 학습
     - js/jQuery 연동
     - Bootstrap 학습
     - Bootstrap Album example 클로닝
+
 
 ## 6일차
 - 프론트엔드 학습
@@ -75,7 +81,13 @@ Parallax Scrolling Web
 
 <img src="https://raw.githubusercontent.com/LEEYEEJIN/basic-html-2023/main/image/portfolio2.png" width="700">
 
+
 ## 8일차
 - 프론트엔드 학습
     - Single Page Template
     - SB Admin Page
+
+Grayscale Single Page Template
+
+<img src="https://raw.githubusercontent.com/LEEYEEJIN/basic-html-2023/main/image/portfolio3.gif" width="700">
+
