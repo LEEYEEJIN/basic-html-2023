@@ -339,3 +339,12 @@ p {
 #layoutError #layoutError_footer {
     min-width: 0;
 }
+
+/* 계정 페이지 */
+#layoutAuthentication_footer {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-width: 0;
+    flex-grow: 1;
+}
